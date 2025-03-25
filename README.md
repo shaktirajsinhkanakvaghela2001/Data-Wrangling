@@ -23,5 +23,3 @@ This project analyzes U.S. honey production data from 1998-2012, focusing on tre
 - Created time-series features for year-over-year analysis
 - Added regional aggregations for broader analysis
 - Flagged data quality issues for transparency
-
-## Repository Structure
